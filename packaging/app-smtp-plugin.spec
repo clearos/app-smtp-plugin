@@ -1,9 +1,9 @@
 
 Name: app-smtp-plugin
 Epoch: 1
-Version: 1.0.5
+Version: 1.1.1
 Release: 1%{dist}
-Summary: SMTP Server Policies - APIs and install
+Summary: SMTP Server Policies - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Source: app-smtp-plugin-%{version}.tar.gz
@@ -13,10 +13,9 @@ Buildarch: noarch
 SMTP Server Policies provide access control for the SMTP Server app.
 
 %package core
-Summary: SMTP Server Policies - APIs and install
+Summary: SMTP Server Policies - Core
 Requires: app-base-core
 Requires: app-accounts-core
-Requires: app-smtp-core
 
 %description core
 SMTP Server Policies provide access control for the SMTP Server app.
