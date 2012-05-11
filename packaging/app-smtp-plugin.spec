@@ -1,7 +1,7 @@
 
 Name: app-smtp-plugin
 Epoch: 1
-Version: 1.1.1
+Version: 1.1.4
 Release: 1%{dist}
 Summary: SMTP Server Policies - Core
 License: LGPLv3
