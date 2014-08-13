@@ -1,7 +1,7 @@
 
 Name: app-smtp-plugin
 Epoch: 1
-Version: 1.2.2
+Version: 1.6.5
 Release: 1%{dist}
 Summary: SMTP Server Policies - Core
 License: LGPLv3
@@ -54,9 +54,7 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/smtp_plugin/packaging
-%exclude /usr/clearos/apps/smtp_plugin/tests
 %dir /usr/clearos/apps/smtp_plugin
 /usr/clearos/apps/smtp_plugin/deploy
 /usr/clearos/apps/smtp_plugin/language
-/usr/clearos/apps/smtp_plugin/libraries
 /var/clearos/accounts/plugins/smtp.php
