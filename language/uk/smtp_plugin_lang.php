@@ -1,5 +1,5 @@
 <?php
 
-$lang['smtp_plugin_app_name'] = 'SMTP Server Policies';
-$lang['smtp_plugin_app_description'] = 'SMTP Server Policies provide access control for the SMTP Server app.';
-$lang['smtp_plugin_smtp_server_user'] = 'SMTP Server User';
+$lang['smtp_plugin_app_name'] = 'Політики SMTP-сервера';
+$lang['smtp_plugin_app_description'] = 'Політики SMTP сервера забезпечують контроль доступу для додатка SMTP-сервера.';
+$lang['smtp_plugin_smtp_server_user'] = 'Сервер SMTP Користувач';
