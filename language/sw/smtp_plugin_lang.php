@@ -1,5 +1,5 @@
 <?php
 
-$lang['smtp_plugin_app_name'] = 'SMTP Server Policies';
-$lang['smtp_plugin_app_description'] = 'SMTP Server Policies provide access control for the SMTP Server app.';
-$lang['smtp_plugin_smtp_server_user'] = 'SMTP Server User';
+$lang['smtp_plugin_app_name'] = 'Sera SMTP Server';
+$lang['smtp_plugin_app_description'] = 'SMTP Sera Server kutoa upatikanaji wa kudhibiti kwa programu SMTP Server.';
+$lang['smtp_plugin_smtp_server_user'] = 'SMTP Server mtumiaji';
